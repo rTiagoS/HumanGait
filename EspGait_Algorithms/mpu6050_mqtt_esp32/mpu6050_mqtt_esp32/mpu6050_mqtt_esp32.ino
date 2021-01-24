@@ -37,7 +37,7 @@ const char* password = "KyxqxYSG";
 
 // Configuração de Rede do Broker MQTT
 //const char* mqttServer = "192.168.0.33";
-const char* mqttServer = "192.168.1.4";
+const char* mqttServer = "192.168.1.7";
 const int mqttPort = 1883;
 //const char* mqttUser = "percebsz";
 //const char* mqttPassword = "0612";
