@@ -12,9 +12,9 @@
    * KiCAD para modelagem da PCB;
   
 **2. Módulo da Aplicação Web**;
-  2.1 Implementação de uma interface para inserção de dados;
-  2.2 Integração ao ESP32 DevKit C e servidor Broker MQTT para testes de conexão;
-  2.3 Rotulação automática dos dados coletados para alimentar o dataset;
+   * Implementação de uma interface para inserção de dados;
+   * Integração ao ESP32 DevKit C e servidor Broker MQTT para testes de conexão;
+   * Rotulação automática dos dados coletados para alimentar o dataset;
   
   Tecnologias utilizadas: 
   - Servidor Linux (Ubuntu 20.04) hospedando Node-RED e um servidor Broker MQTT Eclipse Mosquitto.
