@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name microchip_pic12mcu)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/MCU_Microchip_PIC12.lib)(options "")(descr ""))
-  (lib (name myLib)(type Legacy)(uri ${KIPRJMOD}/myLib.lib)(options "")(descr ""))
-)
