@@ -1,6 +1,6 @@
-#### "Marcha anômala: detecção e classificação a partir de um dispositivo wearable e técnicas de Machine Learning"
+## "Classificação de Marcha Anômala utilizando técnicas de Machine Learning e Sensores Embarcados."
 
-# Publicações
+### Publicações
 
 Para mais detalhes, verifique nosso artigo: https://arxiv.org/abs/2110.06139
 
