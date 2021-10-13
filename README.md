@@ -16,6 +16,8 @@ Caso nosso dataset seja utilizado, por favor, nos cite utilizando a seguinte ref
 }
 ```
 
+Link para o dataset: https://drive.google.com/drive/folders/1B0GRPU912k93h7YRrBrzX0vYdbw2wq_Z?usp=sharing
+
 ##### Este repositório, em síntese, viabiliza o acesso aos três módulos que implementam o projeto proposto. Os módulos são:
 
 **1. Módulo da Aplicação Embarcada**;
