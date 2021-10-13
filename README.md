@@ -1,5 +1,21 @@
 #### "Marcha anômala: detecção e classificação a partir de um dispositivo wearable e técnicas de Machine Learning"
 
+# Publicações
+
+Para mais detalhes, verifique nosso artigo: https://arxiv.org/abs/2110.06139
+
+Caso nosso dataset seja utilizado, por favor, nos cite utilizando a seguinte referência: &nbsp;
+```
+@misc{sa2021classification,
+      title={Classification of anomalous gait using Machine Learning techniques and embedded sensors}, 
+      author={T. R. D. Sa and C. M. S. Figueiredo},
+      year={2021},
+      eprint={2110.06139},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP}
+}
+```
+
 ##### Este repositório, em síntese, viabiliza o acesso aos três módulos que implementam o projeto proposto. Os módulos são:
 
 **1. Módulo da Aplicação Embarcada**;
